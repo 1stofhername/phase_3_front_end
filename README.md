@@ -1,6 +1,6 @@
 # Phase 3 Front End Working Title
 
-The purpose of this project is to disrupt the toxic cycle of social media and provide users a space to have safe and beneficial interactions with others online without subjecting themselves to online abuse. It uses Reactjs, Ruby, Sinatra, and SQLite3.
+The purpose of this project is to disrupt the toxic cycle of social media and provide users a space to have safe and beneficial interactions with others online without subjecting themselves to online abuse. It uses Reactjs, Ruby, Active Record, Sinatra, and SQLite3.
 
 
 ## Available Scripts
